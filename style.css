@@ -1,0 +1,25 @@
+#bookmark{
+    font-size:35px;
+    list-style:none;
+    background:lightcoral !important;
+    width:100%;
+    height:100px;
+}
+
+.book{
+float:left;
+margin:20px;
+background:khaki;
+
+}
+#book1{
+    width:321px;
+    height:321px;
+    border-style:outset;
+    border-color:lightgreen;
+    border-width:15px;
+    margin-top:50px;
+}
+.book:hover{
+    background:lightgreen;
+}

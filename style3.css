@@ -1,0 +1,107 @@
+#name{
+    font-family: 'Style Script', cursive;}
+  #Percy{
+width:300px;
+height:300px;
+border-color:seagreen;
+border-style:solid;
+border-width:5px;
+transition:width 2s,height 2s,border-color 2s,border-style 2s,border-width 3s;
+    }
+    #Percy:hover{
+      width:350px;
+      height:350px;
+    }
+    #Harry{
+        width:400px;
+        height:300px;
+        border-color:crimson;
+        border-style:outset;
+        border-width:9px;
+
+        transition:width 2s,height 2s,border-color 2s,border-style 2s,border-width 3s;
+
+    }
+    #Harry:hover{
+      width:450px;
+      height:350px;
+
+    }
+    #Hunger{
+      width:400px;
+      height:300px;
+      border-color:white;
+        border-style:groove;
+        border-width:9px;
+      
+
+      transition:width 2s,height 2s,border-color 2s,border-style 2s,border-width 3s;
+    }
+    #Hunger:hover{
+      width:450px;
+      height:350px;
+    }
+    #Heores{
+      width:600px;
+      height:300px;
+      border-color:gold;
+      border-style:solid;
+      border-width:5px;
+      transition:width 2s,height 2s,border-color 2s,border-style 2s,border-width 3s;
+
+
+    }
+    #Heores:hover{
+      width:650px;
+      height:350px;
+    }
+    #Number{
+      width:300px;
+      height:400px;
+      border-color:darkblue;
+        border-style:groove;
+        border-width:9px;
+      transition:width 2s,height 2s,border-color 2s,border-style 2s,border-width 3s;
+    }
+    #Number:hover{
+      width:350px;
+      height:450px;
+      border-color:lightskyblue;
+    }
+    #Letters{
+      width:300px;
+      height:400px;
+      border-color:tan;
+      border-style:dotted;
+      border-width:5px;
+      transition:width 2s,height 2s,border-color 2s,border-style 2s,border-width 3s;
+    }
+    #Letters:hover{
+      width:350px;
+      height:450px;
+      border-color:brown;
+    }
+    #Walk{
+      width:300px;
+      height:400px;
+      border-color:indigo;
+      border-style:solid;
+      border-width:5px;
+      transition:width 2s,height 2s,border-color 2s,border-style 2s,border-width 3s;
+    }
+    #Walk:hover{
+      width:350px;
+      height:450px;
+    }
+    #Ivan{
+      width:300px;
+      height:400px;
+      border-color:darkturquoise;
+      border-style:outset;
+      border-width:7px;
+      transition:width 2s,height 2s,border-color 2s,border-style 2s,border-width 3s;
+    }
+    #Ivan:hover{
+      width:350px;
+      height:450px;
+    }

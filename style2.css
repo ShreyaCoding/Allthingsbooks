@@ -1,0 +1,26 @@
+#Crossover{
+    border-style:inset;
+    border-color:seashell;
+    border-width:11px;
+    margin-right:30px;
+  
+
+}
+#Restart{
+    width:200px;
+    height:300px;
+   border-style:groove;
+   border-color:lightsalmon;
+   border-width:11px; 
+   margin-right:30px;
+}
+#Countingby7s{
+    width:200px;
+    height:300px;
+    border-style:solid;
+    border-color:lightskyblue;
+    border-width:11px;
+}
+#fav{
+    font-family: 'Permanent Marker', cursive;
+}
