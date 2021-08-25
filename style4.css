@@ -1,0 +1,34 @@
+div{
+    width:300px;
+    height:500px;
+    position:relative;
+    border-color:black;
+    border-width:15px;
+    margin-top:50px;
+    animation-name:flower2;
+    animation-duration:20s;
+    animation-iteration-count:infinite;
+    animation-play-state: running;
+    text-align:center;
+
+}
+
+@keyframes flower{
+from{left:0px;}
+to{left:1200px;}
+}
+
+@keyframes flower2{
+    
+
+
+0%{background-image:url("https://images-na.ssl-images-amazon.com/images/I/51iXg+CcMcL._SX341_BO1,204,203,200_.jpg");border-style:outset;border-color:darkred;border-width:5px;width:300px;height:500px;background-position:center;background-size:cover;}
+
+25%{background-image:url("https://images-na.ssl-images-amazon.com/images/I/91RQ5d-eIqL.jpg");border-style:outset;border-color:darkblue;border-width:5px;width:300px;height:500px;background-position:center;background-size:cover;}
+
+50%{background-image:url("https://m.media-amazon.com/images/I/61qSRYof0-L.jpg");border-style:groove;border-color:brown;border-width:5px;width:300px;height:500px;background-position:center;background-size:cover;}
+ 
+75%{background-image:url("http://1.bp.blogspot.com/-fd7IsyTp7rY/Tq31gfeAwyI/AAAAAAAAABM/d5P8jrijEGQ/w1200-h630-p-k-no-nu/Son%2Bof%2BNeptune%2Bcover.png");border-color:skyblue;border-width:5px;width:300px;height:500px;background-position:center;background-size:cover;}
+
+100%{background-image:url("https://static.wikia.nocookie.net/olympians/images/3/3e/The_Hidden_Oracle.jpg/revision/latest/top-crop/width/360/height/450?cb=20151211133055");border-color:goldenrod;border-width:5px;width:300px;height:500px;background-position:center;background-size:cover;}
+}
